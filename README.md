@@ -1,2 +1,2 @@
-# johnsonlee.github.io
-My personal blog on github.
+# Johnson's Blog
+菜且水且摸的带学生博客.
