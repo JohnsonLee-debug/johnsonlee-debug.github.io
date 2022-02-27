@@ -45,6 +45,7 @@ category:
 - [CS4160 形式化验证](https://www.cs.cornell.edu/courses/cs4160/2020sp/)
 - [COMS W3157 Programming Language and Translators](http://www.cs.columbia.edu/~sedwards/classes/2021/4115-spring/)
 - [南大静态分析](https://pascal-group.bitbucket.io/teaching.html)
+- [CMU静态分析](http://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/)
 - [CS144 Introduction to Computer Networking](https://cs144.github.io/)
 - [JYY蒋神OS](http://jyywiki.cn/OS/2022/)
 - [国科大陈立前老师程序分析](https://www.educoder.net/classrooms/78obntkf/announcement)
