@@ -54,6 +54,7 @@ category:
 - [梁红瑾程序设计语言的形式语义](https://cs.nju.edu.cn/hongjin/teaching/semantics2020/index.htm)
 - [Stanford CS242](https://stanford-cs242.github.io/f19/)
 - [CS3520 Utah](https://my.eng.utah.edu/~cs3520/index.html)
+- [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 ## 5. 免费书籍
 
