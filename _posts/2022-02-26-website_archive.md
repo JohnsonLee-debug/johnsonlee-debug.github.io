@@ -75,6 +75,7 @@ category:
 - [正则表达式转非确定性有穷自动机](https://cyberzhg.github.io/toolbox/regex2nfa)
 - [正则表达式铁道图](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%24)
 - [自动机模拟器](https://ivanzuzak.info/noam/webapps/fsm_simulator/)
+- [Regex Debugger](https://regex101.com/)
 
 ## 7. MISC
 
