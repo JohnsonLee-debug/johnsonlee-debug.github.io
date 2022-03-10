@@ -70,6 +70,7 @@ plugins:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-spaceship
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -732,6 +733,11 @@ vendors:
 css: assets/css
 js: assets/js
 images: assets/images
+
+jekyll-spaceship:
+  mermaid-processor:
+    syntax:
+      code: 'mermaid'
 
 # Theme version
 version: 5.1.1
