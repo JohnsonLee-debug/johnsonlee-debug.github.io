@@ -739,5 +739,7 @@ jekyll-spaceship:
     syntax:
       code: 'mermaid'
 
+repository: JohnsonLee-debug/johnsonlee-debug.github.io
+
 # Theme version
 version: 5.1.1
