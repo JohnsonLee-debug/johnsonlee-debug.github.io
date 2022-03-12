@@ -739,10 +739,13 @@ jekyll-spaceship:
   processors:
     - mermaid-processor
     - media-processor
-    - mathjax-processor
+    - table-processor
   mermaid-processor:
     syntax:
       code: 'mermaid'
+  #mathjax-processor:
+    #src:
+      #- https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML
 
 repository: JohnsonLee-debug/johnsonlee-debug.github.io
 
