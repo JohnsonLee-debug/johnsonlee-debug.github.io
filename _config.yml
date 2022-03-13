@@ -48,7 +48,7 @@ highlight:
 markdown: kramdown
 kramdown:
     input: GFM
-    syntax_highlighter: rouge
+    #syntax_highlighter: rouge
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
@@ -72,6 +72,7 @@ plugins:
  - jekyll-sitemap
  - jekyll-feed
  - jekyll-spaceship
+ - rouge
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -86,7 +87,7 @@ keywords: "LowbLive"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -154,8 +155,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -215,7 +216,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+  GitHub: https://github.com/johnsonlee-debug
   #LinkLabel: Link
 
 
@@ -235,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: https://avatars.githubusercontent.com/u/53596783?s=96&v=4
 
 
 # Table Of Contents in the Sidebar
@@ -246,7 +248,7 @@ toc:
   number: true
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
+  wrap: true
 
 
 # Creative Commons 4.0 International License.
@@ -265,7 +267,7 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: remove
+  display: post
   #display: always
   #display: hide
   #display: remove
@@ -297,7 +299,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: false
+save_scroll: true
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -319,7 +321,7 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: false
-  min2read: false
+  min2read: true
   separated_meta: true
 
 # Wechat Subscriber
@@ -612,7 +614,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -743,9 +745,6 @@ jekyll-spaceship:
   mermaid-processor:
     syntax:
       code: 'mermaid'
-  #mathjax-processor:
-    #src:
-      #- https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML
 
 repository: JohnsonLee-debug/johnsonlee-debug.github.io
 

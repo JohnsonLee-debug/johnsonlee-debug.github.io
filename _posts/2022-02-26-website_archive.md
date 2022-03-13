@@ -9,7 +9,7 @@ category:
 
 <!-- more -->
 
-## 1. 博客
+## 大牛博客
 
 - [包云岗的博客](https://blog.sciencenet.cn/home.php?mod=space&uid=414166)
 - [美团技术团队](https://tech.meituan.com/)
@@ -24,23 +24,23 @@ category:
 - [玄简君](https://ksqsf.moe/)
 - [李博杰](https://ring0.me/)
 
-## 2. Go语言
+## Go语言
 
 - [Go设计模式与Web开发等](https://zhuanlan.zhihu.com/mohuishou)
 - [Go Wiki](https://github.com/golang/go/wiki)
 - [Go语言高性能编程](https://geektutu.com/post/high-performance-go.html)
 - [菜刚(Golang系列)](https://i6448038.github.io/)
 
-## 3. Java语言
+## Java语言
 
 - [Baeldung](https://www.baeldung.com/)
 
-## 3. WSL
+## WSL
 
 - [WSL设置静态IP](https://github.com/microsoft/WSL/issues/4210)
 - [WSL里使用nvim如何共享剪贴板问题](https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl)
 
-## 4. 公开课
+## 公开课
 
 - [南大SICP](https://nju-sicp.bitbucket.io/)
 - [南大ICS PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html)
@@ -58,7 +58,7 @@ category:
 - [CS3520 Utah](https://my.eng.utah.edu/~cs3520/index.html)
 - [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
-## 5. 免费书籍
+## 免费书籍
 
 - [HTDP](https://htdp.org/2022-2-9/Book/index.html)
 - [Crafting Interpreter](https://craftinginterpreters.com/)
@@ -68,7 +68,7 @@ category:
 - [Operating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Jeff Erickson的Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
-## 6. 工具网站
+## 工具网站
 
 - [GodBolt](https://gcc.godbolt.org/)
 - [数据神厨](https://gchq.github.io/CyberChef/)
@@ -79,7 +79,7 @@ category:
 - [自动机模拟器](https://ivanzuzak.info/noam/webapps/fsm_simulator/)
 - [Regex Debugger](https://regex101.com/)
 
-## 7. MISC
+## MISC
 
 - [如何在Markdown里使用PlantUML画图](https://blog.csdn.net/Honnyee/article/details/115243923)
 - [Tmux 使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
@@ -87,6 +87,6 @@ category:
 - [Mirage OS(Unikernel)](https://docs.mirage.io/index.html)
 - [JYY开发的代码查重](https://zhuanlan.zhihu.com/p/40568346)
 
-## 8. 吉他谱
+## 吉他谱
 
 - [夕凪](https://www.jitashe.org/tab/1335995/)
