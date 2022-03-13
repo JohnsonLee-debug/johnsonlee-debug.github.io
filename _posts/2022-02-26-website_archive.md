@@ -42,6 +42,7 @@ category:
 
 ## 公开课
 
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/index.html)
 - [南大SICP](https://nju-sicp.bitbucket.io/)
 - [南大ICS PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html)
 - [CS4160 形式化验证](https://www.cs.cornell.edu/courses/cs4160/2020sp/)
