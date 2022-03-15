@@ -14,15 +14,14 @@ category:
 - [包云岗的博客](https://blog.sciencenet.cn/home.php?mod=space&uid=414166)
 - [美团技术团队](https://tech.meituan.com/)
 - [Keep Coding](https://liujiacai.net/)
-- [Tech Explorer](https://byronhe.com/)
+- [Tech Explorer, 数据库, LinuxC](https://byronhe.com/)
 - [凝神长老](https://www.jxtxzzw.com/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [JR’s Blog](https://willendless.github.io/)
-- [CoolShell](https://coolshell.cn/)
 - [Mthli](https://mthli.xyz/)
 - [JYY的WIKI](http://jyywiki.cn)
 - [玄简君](https://ksqsf.moe/)
-- [李博杰](https://ring0.me/)
+- [Kaito, 中间件, 分布式系统的讲解非常不错](http://kaito-kidd.com/)
 
 ## Go语言
 
