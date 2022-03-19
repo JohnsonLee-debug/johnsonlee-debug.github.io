@@ -62,7 +62,7 @@ category:
 
 - [HTDP](https://htdp.org/2022-2-9/Book/index.html)
 - [Crafting Interpreter](https://craftinginterpreters.com/)
-- [一份不太简短的LATEX2e介绍](http://www.mohu.org/info/lshort-cn.pdf)
+- [一份不太简短的LATEX2e介绍](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 - [How To Ask Question](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - [Operating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
