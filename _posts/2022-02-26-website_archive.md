@@ -9,6 +9,21 @@ category:
 
 <!-- more -->
 
+## 资源类
+
+- [Google Scholar](https://scholar.google.com/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [ACM Digital Library](https://dl.acm.org/)
+- [IACR's ePrint archive](https://eprint.iacr.org/)
+- [DBLP](https://dblp.uni-trier.de/)
+- [arXiv](https://arxiv.org/)
+- [CiteSeerX](http://citeseer.ist.psu.edu/index)
+- [JSTOR](https://www.jstor.org/)
+- [SpringerLink](https://link.springer.com/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [Libgen](https://libgen.is/)
+- [SciHub](https://sci-hub.hkvisa.net/)
+
 ## 大牛博客
 
 - [包云岗的博客](https://blog.sciencenet.cn/home.php?mod=space&uid=414166)
@@ -67,6 +82,7 @@ category:
 - [How To Ask Question](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - [Operating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Jeff Erickson的Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [How to Read a Paper](http://www.mohu.org/info/lshort-cn.pdf)
 
 ## 工具网站
 
@@ -78,6 +94,16 @@ category:
 - [正则表达式铁道图](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%24)
 - [自动机模拟器](https://ivanzuzak.info/noam/webapps/fsm_simulator/)
 - [Regex Debugger](https://regex101.com/)
+- [Overleaf](https://www.overleaf.com/) 在线LaTex编辑器
+- [Tables Generator](https://www.tablesgenerator.com/) 表格生成器
+- [QuillBot](https://quillbot.com/) Paraphrase 工具
+- [Detexify](http://detexify.kirelabs.org/classify.html) 识别手写符号输出LaTex指令
+- [Connected Papers](https://www.connectedpapers.com/) 论文关联可视化
+- [Academic Phrase Bank](https://www.phrasebank.manchester.ac.uk/) 一些模板句
+- [doi2bib](https://www.doi2bib.org/) 把DOI转成BibTex
+- [Linggle](https://linggle.com/) 词汇搭配分析
+- [Shapecatcher](https://shapecatcher.com/) Unicode手写识别
+- [Try It Online](https://tio.run/#) 各种编程语言在线运行
 
 ## MISC
 
