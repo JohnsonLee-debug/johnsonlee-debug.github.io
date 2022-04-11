@@ -80,6 +80,7 @@ category:
 - [Crafting Interpreter](https://craftinginterpreters.com/)
 - [一份不太简短的LATEX2e介绍](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 - [How To Ask Question](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - [Operating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Jeff Erickson的Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
